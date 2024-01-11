@@ -428,6 +428,10 @@ p.text {
 .contact .container{
 
     display: flex;
+    justify-content: center;
+    height: 679px;
+    margin-top: 148px;
+
 
 }
 .foot-bar {
@@ -505,6 +509,7 @@ p.text {
     background-size: contain;
 }
 .checkbox {
+    margin-top: 10px;
     font: normal normal normal 12px/17px Open Sans;
     letter-spacing: 0;
     color: #707070;
